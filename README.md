@@ -12,7 +12,7 @@ All the code written during the 26 days of my Piscine at 42 Barcelona.
 
 - If any project needs any change to be turned in again, the folder of the last try of the project shall be cloned into the new git repo created by the Intra and stay there until it is turned in again.
 
-- When the project is set as finished in the intra, it may be added to the finished folder without its respective .git folder to avoid conflicts.
+- When the project is set as finished in the Intra, it may be added to the finished folder without its respective .git folder to avoid conflicts.
 
 ## leftovers
 
